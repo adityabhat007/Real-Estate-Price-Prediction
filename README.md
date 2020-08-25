@@ -1,1 +1,2 @@
 # Real-Estate-Price-Prediction
+The main purpose o the repository is to Identify the changes in House prices. We take many factors into account like: Lot Frontage, No. of Rooms, Basement SqFt Area, Lot Area in SqFt, Porche area Year Built, Renovation Last Done e.t.c. We need to predict the House Prce taking all the Predictor variables and come up with a model which can predict the changes in Prices based on above factors
